@@ -97,8 +97,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <a href="mailto:info@furnihome.ke" className="text-muted-foreground hover:text-primary transition-colors">
-                      info@furnihome.ke
+                    <a href="mailto:info@supremefurniture.ke" className="text-muted-foreground hover:text-primary transition-colors">
+                      info@supremefurniture.ke
                     </a>
                   </div>
                 </div>
