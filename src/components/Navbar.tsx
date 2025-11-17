@@ -33,7 +33,7 @@ const Navbar = () => {
                       : "text-muted-foreground hover:text-foreground"
                   }`}
                 >
-                  <Icon className="w-4 h-4" />
+                 {/* <Icon className="w-4 h-4" />*/}
                   {link.label}
                 </Link>
               );
@@ -52,7 +52,7 @@ const Navbar = () => {
                     isActive ? "text-primary" : "text-muted-foreground"
                   }`}
                 >
-                  <Icon className="w-5 h-5" />
+                  {/*  <Icon className="w-5 h-5" />*/}
                 </Link>
               );
             })}
