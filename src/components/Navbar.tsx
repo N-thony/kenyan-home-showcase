@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="text-2xl font-bold text-primary">
-            Furni<span className="text-accent">Home</span>
+            Supreme <span className="text-accent">Furniture</span>
           </Link>
           
           <div className="hidden md:flex items-center gap-8">
