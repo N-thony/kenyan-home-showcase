@@ -2,14 +2,13 @@ const About = () => {
   return (
     <div className="container mx-auto px-4 py-12">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-4xl md:text-5xl font-bold mb-8 text-center">About FurniHome</h1>
-        
+        <h1 className="text-4xl md:text-5xl font-bold mb-8 text-center">About Supreme Furniture</h1>
+
         <div className="space-y-8">
           <div className="bg-card rounded-3xl p-8 md:p-12">
             <h2 className="text-2xl font-semibold mb-4">Our Story</h2>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              FurniHome began with a simple mission: to create beautiful, quality furniture that Kenyan families can be proud to have in their homes. What started as a small workshop has grown into a trusted name for handcrafted furniture.
-            </p>
+              Supreme Furniture began with a simple mission: to create beautiful, quality furniture that Kenyan families can be proud to have in their homes. What started as a small workshop has grown into a trusted name for handcrafted furniture.            </p>
             <p className="text-muted-foreground leading-relaxed">
               Every piece we create combines traditional craftsmanship with modern design. We believe that furniture should be both functional and beautiful, built to last for years while enhancing your living spaces.
             </p>

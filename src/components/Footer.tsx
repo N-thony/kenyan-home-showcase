@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-bold text-primary mb-4">
-              Furni<span className="text-accent">Home</span>
+              Supreme <span className="text-accent">Furniture</span>
             </h3>
             <p className="text-muted-foreground">
               Quality furniture crafted with care for your home in Kenya.
@@ -46,14 +46,14 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-2 text-muted-foreground">
                 <Mail className="w-5 h-5 flex-shrink-0" />
-                <span>info@furnihome.ke</span>
+                <span>info@supremefurniture.ke</span>
               </div>
             </div>
           </div>
         </div>
         
         <div className="border-t border-border mt-8 pt-8 text-center text-muted-foreground text-sm">
-          © 2024 FurniHome. All rights reserved.
+          © 2024 Supreme Furniture. All rights reserved.
         </div>
       </div>
     </footer>
